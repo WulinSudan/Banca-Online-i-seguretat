@@ -1,0 +1,13 @@
+\babel@toc {catalan}{}\relax 
+\contentsline {section}{\numberline {1}Introducció sobre la Banca online i seguretat}{2}{section.1}%
+\contentsline {subsection}{a. Què és la banca online?}{2}{section*.2}%
+\contentsline {subsection}{b. La primera banco online}{2}{section*.3}%
+\contentsline {subsection}{c. Les característiques principals de la banca en línia}{2}{section*.4}%
+\contentsline {subsection}{d. Avantatges de la banca en línia}{2}{section*.5}%
+\contentsline {subsection}{e. Desavantatges de la banca en línia}{3}{section*.6}%
+\contentsline {section}{\numberline {2}Resolució}{4}{section.2}%
+\contentsline {subsection}{a. Anàlisi del model PL}{4}{section*.7}%
+\contentsline {subsubsection}{Formulació}{4}{section*.8}%
+\contentsline {subsection}{b. Modificació del PL, nova condició \emph {si-llavors}}{4}{section*.9}%
+\contentsline {subsubsection}{Formulació de les noves restriccions}{4}{section*.10}%
+\contentsline {section}{\numberline {3}Bibliografia}{5}{section.3}%
