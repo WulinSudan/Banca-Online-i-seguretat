@@ -1,13 +1,18 @@
 \babel@toc {catalan}{}\relax 
-\contentsline {section}{\numberline {1}Introducció sobre la Banca online i seguretat}{2}{section.1}%
-\contentsline {subsection}{a. Què és la banca online?}{2}{section*.2}%
-\contentsline {subsection}{b. La primera banco online}{2}{section*.3}%
-\contentsline {subsection}{c. Les característiques principals de la banca en línia}{2}{section*.4}%
-\contentsline {subsection}{d. Avantatges de la banca en línia}{2}{section*.5}%
-\contentsline {subsection}{e. Desavantatges de la banca en línia}{3}{section*.6}%
-\contentsline {section}{\numberline {2}Resolució}{4}{section.2}%
-\contentsline {subsection}{a. Anàlisi del model PL}{4}{section*.7}%
-\contentsline {subsubsection}{Formulació}{4}{section*.8}%
-\contentsline {subsection}{b. Modificació del PL, nova condició \emph {si-llavors}}{4}{section*.9}%
-\contentsline {subsubsection}{Formulació de les noves restriccions}{4}{section*.10}%
-\contentsline {section}{\numberline {3}Bibliografia}{5}{section.3}%
+\contentsline {section}{\numberline {1}Banca online}{2}{section.1}%
+\contentsline {subsection}{Què és la banca online?}{2}{section*.2}%
+\contentsline {subsection}{La primera banca online i evolució}{2}{section*.3}%
+\contentsline {subsection}{Les característiques principals de la banca en línia}{2}{section*.4}%
+\contentsline {subsection}{Avantatges de la banca online}{3}{section*.5}%
+\contentsline {subsection}{Desavantatges de la banca online}{3}{section*.6}%
+\contentsline {section}{\numberline {2}App Bancaris}{4}{section.2}%
+\contentsline {subsection}{Què pot fet una app bancari?}{4}{section*.7}%
+\contentsline {subsection}{OpenBanK}{4}{section*.8}%
+\contentsline {subsection}{CaixaBanK}{4}{section*.9}%
+\contentsline {section}{\numberline {3}Pagaments via digita}{5}{section.3}%
+\contentsline {subsection}{Tarjeta Bancari}{5}{section*.10}%
+\contentsline {subsection}{Bizum}{5}{section*.13}%
+\contentsline {subsection}{Codi qr}{5}{section*.14}%
+\contentsline {section}{\numberline {4}Seguretat Bancari}{5}{section.4}%
+\contentsline {subsection}{Maneres de donar contrasenyes}{5}{section*.15}%
+\contentsline {section}{\numberline {5}Bibliografia}{6}{section.5}%

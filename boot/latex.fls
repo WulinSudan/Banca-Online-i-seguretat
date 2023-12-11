@@ -1,7 +1,7 @@
-PWD c:\Users\sudan\OneDrive\桌面\Banca online i seguretat
+PWD c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat
 INPUT C:\Users\sudan\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\sudan\OneDrive\桌面\Banca online i seguretat\latex.tex
-OUTPUT c:\Users\sudan\OneDrive\桌面\Banca online i seguretat\boot\latex.log
+INPUT c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\latex.tex
+OUTPUT c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.log
 INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -612,10 +612,10 @@ INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend
 INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT c:\Users\sudan\OneDrive\桌面\Banca online i seguretat\boot\latex.aux
-INPUT c:\Users\sudan\OneDrive\桌面\Banca online i seguretat\boot\latex.aux
-INPUT c:\Users\sudan\OneDrive\桌面\Banca online i seguretat\boot\latex.aux
-OUTPUT c:\Users\sudan\OneDrive\桌面\Banca online i seguretat\boot\latex.aux
+INPUT c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.aux
+INPUT c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.aux
+INPUT c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.aux
+OUTPUT c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.aux
 INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -635,18 +635,18 @@ INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-s
 INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT c:\Users\sudan\OneDrive\桌面\Banca online i seguretat\boot\latex.out
-INPUT c:\Users\sudan\OneDrive\桌面\Banca online i seguretat\boot\latex.out
-INPUT c:\Users\sudan\OneDrive\桌面\Banca online i seguretat\boot\latex.out
-INPUT c:\Users\sudan\OneDrive\桌面\Banca online i seguretat\boot\latex.out
-INPUT c:\Users\sudan\OneDrive\桌面\Banca online i seguretat\boot\latex.out
-INPUT c:\Users\sudan\OneDrive\桌面\Banca online i seguretat\boot\latex.out
-INPUT c:\Users\sudan\OneDrive\桌面\Banca online i seguretat\boot\latex.out
-INPUT c:\Users\sudan\OneDrive\桌面\Banca online i seguretat\boot\latex.out
-OUTPUT c:\Users\sudan\OneDrive\桌面\Banca online i seguretat\boot\latex.pdf
-INPUT c:\Users\sudan\OneDrive\桌面\Banca online i seguretat\boot\latex.out
-INPUT c:\Users\sudan\OneDrive\桌面\Banca online i seguretat\boot\latex.out
-OUTPUT c:\Users\sudan\OneDrive\桌面\Banca online i seguretat\boot\latex.out
+INPUT c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.out
+INPUT c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.out
+INPUT c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.out
+INPUT c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.out
+INPUT c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.out
+INPUT c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.out
+INPUT c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.out
+INPUT c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.out
+OUTPUT c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.pdf
+INPUT c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.out
+INPUT c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.out
+OUTPUT c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.out
 INPUT .\images\\logoUdG.png
 INPUT images\\logoUdG.png
 INPUT .\images\\logoUdG.png
@@ -659,9 +659,9 @@ INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\sudan\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT c:\Users\sudan\OneDrive\桌面\Banca online i seguretat\boot\latex.toc
-INPUT c:\Users\sudan\OneDrive\桌面\Banca online i seguretat\boot\latex.toc
-INPUT c:\Users\sudan\OneDrive\桌面\Banca online i seguretat\boot\latex.toc
+INPUT c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.toc
+INPUT c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.toc
+INPUT c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.toc
 INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
@@ -674,47 +674,38 @@ INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
 INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
 INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
 INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti12.tfm
-OUTPUT c:\Users\sudan\OneDrive\桌面\Banca online i seguretat\boot\latex.toc
-INPUT .\puntsClaus.tex
-INPUT puntsClaus.tex
-INPUT .\puntsClaus.tex
-INPUT puntsClaus.tex
-INPUT .\BancaOnline.tex
-INPUT BancaOnline.tex
-INPUT .\BancaOnline.tex
-INPUT BancaOnline.tex
+OUTPUT c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.toc
+INPUT .\Introducció.tex
+INPUT Introducció.tex
+INPUT .\Introducció.tex
+INPUT Introducció.tex
 INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1200.tfm
-INPUT .\CaixaBank.tex
-INPUT .\CaixaBank.tex
-INPUT .\CaixaBank.tex
-INPUT CaixaBank.tex
-INPUT .\CaixaBank.tex
-INPUT .\CaixaBank.tex
-INPUT CaixaBank.tex
-INPUT .\OpenBank.tex
-INPUT .\OpenBank.tex
-INPUT .\OpenBank.tex
-INPUT OpenBank.tex
-INPUT .\OpenBank.tex
-INPUT .\OpenBank.tex
-INPUT OpenBank.tex
-INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbxti10.tfm
+INPUT .\Apps.tex
+INPUT Apps.tex
+INPUT .\Apps.tex
+INPUT Apps.tex
+INPUT .\Pagaments.tex
+INPUT Pagaments.tex
+INPUT .\Pagaments.tex
+INPUT Pagaments.tex
+INPUT .\Seguretat.tex
+INPUT Seguretat.tex
+INPUT .\Seguretat.tex
+INPUT Seguretat.tex
 INPUT .\Bibliografia.tex
 INPUT Bibliografia.tex
 INPUT .\Bibliografia.tex
 INPUT Bibliografia.tex
-INPUT c:\Users\sudan\OneDrive\桌面\Banca online i seguretat\boot\latex.aux
-INPUT c:\Users\sudan\OneDrive\桌面\Banca online i seguretat\boot\latex.out
-INPUT c:\Users\sudan\OneDrive\桌面\Banca online i seguretat\boot\latex.out
+INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt12.tfm
+INPUT c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.aux
+INPUT c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.out
+INPUT c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.out
 INPUT C:\Users\sudan\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
 INPUT C:\Users\sudan\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
 INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbxti10.pfb
-INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbxti10.pfb
 INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
-INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti12.pfb
-INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti12.pfb
+INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt12.pfb
+INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt12.pfb

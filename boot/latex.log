@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.19)  5 DEC 2023 15:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.19)  11 DEC 2023 23:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/sudan/OneDrive/桌面/Banca online i seguretat/latex.tex"
-(c:/Users/sudan/OneDrive/桌面/Banca online i seguretat/latex.tex
+**c:/Users/sudan/OneDrive/桌面/Banca-Online-i-seguretat/latex.tex
+(c:/Users/sudan/OneDrive/桌面/Banca-Online-i-seguretat/latex.tex
 LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-09-28> (C:\Users\sudan\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -354,7 +354,7 @@ Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
 File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count303
 \l__pdf_internal_box=\box63
-) (c:\Users\sudan\OneDrive\桌面\Banca online i seguretat\boot\latex.aux)
+) (c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.aux)
 \openout1 = `latex.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
@@ -433,18 +433,18 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring OFF on input line 29.
- (c:\Users\sudan\OneDrive\桌面\Banca online i seguretat\boot\latex.out) (c:\Users\sudan\OneDrive\桌面\Banca online i seguretat\boot\latex.out)
+ (c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.out) (c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.out)
 \@outlinefile=\write3
 \openout3 = `latex.out'.
 
-<images//logoUdG.png, id=55, 592.46344pt x 149.8097pt>
+<images//logoUdG.png, id=71, 592.46344pt x 149.8097pt>
 File: images//logoUdG.png Graphic file (type png)
 <use images//logoUdG.png>
 Package pdftex.def Info: images//logoUdG.png  used on input line 33.
 (pdftex.def)             Requested size: 202.53781pt x 51.21504pt.
  [1
 
-{C:/Users/sudan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images//logoUdG.png>] (c:\Users\sudan\OneDrive\桌面\Banca online i seguretat\boot\latex.toc)
+{C:/Users/sudan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images//logoUdG.png>] (c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.toc)
 \tf@toc=\write4
 \openout4 = `latex.toc'.
 
@@ -460,8 +460,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.48 \clearpage
-                [1] (puntsClaus.tex)
+l.49 \clearpage
+                [1] (Introducció.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -471,21 +471,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [2
 
-] (BancaOnline.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[3
-
-
 ])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -494,7 +479,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[4] (CaixaBank.tex) (OpenBank.tex)
+[3] (Apps.tex)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[4
+
+
+] (Pagaments.tex) (Seguretat.tex)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -503,7 +499,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [5
-
 
 ] (Bibliografia.tex)
 
@@ -515,22 +510,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [6
 
-] (c:\Users\sudan\OneDrive\桌面\Banca online i seguretat\boot\latex.aux)
+
+] (c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.aux)
 Package rerunfilecheck Info: File `latex.out' has not changed.
-(rerunfilecheck)             Checksum: C492F30F91A7FEA05093B6555FB2BEF9;2824.
+(rerunfilecheck)             Checksum: F42B232C1EE27689F9AD15155D9A1E17;2718.
  ) 
 Here is how much of TeX's memory you used:
- 13416 strings out of 475385
- 213804 string characters out of 2776907
- 605264 words of memory out of 3000000
- 34559 multiletter control sequences out of 15000+600000
- 475836 words of font info for 50 fonts, out of 8000000 for 9000
+ 13414 strings out of 475385
+ 213838 string characters out of 2776907
+ 605265 words of memory out of 3000000
+ 34570 multiletter control sequences out of 15000+600000
+ 475299 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,12n,77p,643b,596s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\sudan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/sudan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/sudan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/sudan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/sudan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "c:\Users\sudan\OneDrive\桌面\Banca online i seguretat\boot\latex.pdf" (7 pages, 90290 bytes).
+ 72i,12n,77p,1254b,596s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\sudan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/sudan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/sudan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/sudan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.pdf (7 pages, 83173 bytes).
 PDF statistics:
- 166 PDF objects out of 1000 (max. 8388607)
- 46 named destinations out of 1000 (max. 500000)
- 110 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 163 PDF objects out of 1000 (max. 8388607)
+ 34 named destinations out of 1000 (max. 500000)
+ 142 words of extra memory for PDF output out of 10000 (max. 10000000)
 
