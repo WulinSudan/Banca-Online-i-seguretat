@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.19)  11 DEC 2023 23:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.19)  12 DEC 2023 23:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -437,7 +437,7 @@ Package hyperref Info: Link coloring OFF on input line 29.
 \@outlinefile=\write3
 \openout3 = `latex.out'.
 
-<images//logoUdG.png, id=71, 592.46344pt x 149.8097pt>
+<images//logoUdG.png, id=67, 592.46344pt x 149.8097pt>
 File: images//logoUdG.png Graphic file (type png)
 <use images//logoUdG.png>
 Package pdftex.def Info: images//logoUdG.png  used on input line 33.
@@ -462,6 +462,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
                    \relax 
 l.49 \clearpage
                 [1] (Introducció.tex
+<images//percentatge.png, id=97, 747.54282pt x 398.23781pt>
+File: images//percentatge.png Graphic file (type png)
+<use images//percentatge.png>
+Package pdftex.def Info: images//percentatge.png  used on input line 19.
+(pdftex.def)             Requested size: 273.14923pt x 145.51054pt.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -471,7 +477,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [2
 
-])
+ <./images//percentatge.png>])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -490,7 +496,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [4
 
 
-] (Pagaments.tex) (Seguretat.tex)
+] (Pagaments.tex
+<images//primeratarjeta.png, id=119, 781.41937pt x 480.29437pt>
+File: images//primeratarjeta.png Graphic file (type png)
+<use images//primeratarjeta.png>
+Package pdftex.def Info: images//primeratarjeta.png  used on input line 29.
+(pdftex.def)             Requested size: 142.26378pt x 87.43861pt.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -500,7 +512,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [5
 
-] (Bibliografia.tex)
+ <./images//primeratarjeta.png>]) (Seguretat.tex)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -508,25 +520,52 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[6
+[6] (Bibliografia.tex)
+Overfull \hbox (210.48122pt too wide) in paragraph at lines 3--74
+[]$\OT1/cmtt/m/n/12 https : / / es . statista . com / estadisticas / 501217 / tasa-[]de-[]penetracion-[]de-[]los-[]servicios-[]de-[]banca-[]online-[]en-[]espana/$[] 
+ []
+
+
+Overfull \hbox (33.58113pt too wide) in paragraph at lines 3--74
+[]$\OT1/cmtt/m/n/12 https : / / blog . billpocket . com / post / tarjetas-[]de-[]chip# : [] : text = Mientras % 20que % 20las %
+ []
+
+
+Overfull \hbox (116.35617pt too wide) in paragraph at lines 3--74
+[]$\OT1/cmtt/m/n/12 https : / / www . bbvaapimarket . com / es / mundo-[]api / ventajas-[]incorporar-[]alipay-[]forma-[]de-[]pago-[]negocio/$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--74
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[7
 
 
 ] (c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.aux)
 Package rerunfilecheck Info: File `latex.out' has not changed.
-(rerunfilecheck)             Checksum: F42B232C1EE27689F9AD15155D9A1E17;2718.
+(rerunfilecheck)             Checksum: 09C27EEB26A77A43BAF5CAA3D147599C;2909.
  ) 
 Here is how much of TeX's memory you used:
- 13414 strings out of 475385
- 213838 string characters out of 2776907
+ 13436 strings out of 475385
+ 214352 string characters out of 2776907
  605265 words of memory out of 3000000
- 34570 multiletter control sequences out of 15000+600000
+ 34588 multiletter control sequences out of 15000+600000
  475299 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,12n,77p,1254b,596s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,13n,77p,1254b,519s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\sudan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/sudan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/sudan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/sudan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.pdf (7 pages, 83173 bytes).
+Output written on c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.pdf (8 pages, 1696712 bytes).
 PDF statistics:
- 163 PDF objects out of 1000 (max. 8388607)
- 34 named destinations out of 1000 (max. 500000)
- 142 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 173 PDF objects out of 1000 (max. 8388607)
+ 36 named destinations out of 1000 (max. 500000)
+ 144 words of extra memory for PDF output out of 10000 (max. 10000000)
 

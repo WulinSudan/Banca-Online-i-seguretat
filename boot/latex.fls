@@ -681,6 +681,12 @@ INPUT .\Introducció.tex
 INPUT Introducció.tex
 INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\sudan\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1200.tfm
+INPUT .\images\\percentatge.png
+INPUT images\\percentatge.png
+INPUT .\images\\percentatge.png
+INPUT .\images\\percentatge.png
+INPUT .\images\\percentatge.png
+INPUT .\images\\percentatge.png
 INPUT .\Apps.tex
 INPUT Apps.tex
 INPUT .\Apps.tex
@@ -689,6 +695,12 @@ INPUT .\Pagaments.tex
 INPUT Pagaments.tex
 INPUT .\Pagaments.tex
 INPUT Pagaments.tex
+INPUT .\images\\primeratarjeta.png
+INPUT images\\primeratarjeta.png
+INPUT .\images\\primeratarjeta.png
+INPUT .\images\\primeratarjeta.png
+INPUT .\images\\primeratarjeta.png
+INPUT .\images\\primeratarjeta.png
 INPUT .\Seguretat.tex
 INPUT Seguretat.tex
 INPUT .\Seguretat.tex
