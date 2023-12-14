@@ -10,7 +10,7 @@
 \contentsline {subsection}{Bizum}{5}{section*.7}%
 \contentsline {subsection}{Cartera digital}{5}{section*.8}%
 \contentsline {section}{\numberline {4}Seguretat Bancari}{7}{section.4}%
-\contentsline {subsection}{Seguretat de dades del bancari}{7}{section*.9}%
+\contentsline {subsection}{Seguretat de dades del part bancari}{7}{section*.9}%
 \contentsline {subsection}{Seguretat de dades del part client}{7}{section*.10}%
 \contentsline {section}{\numberline {5}Apps}{8}{section.5}%
 \contentsline {subsection}{BBVA}{8}{section*.11}%

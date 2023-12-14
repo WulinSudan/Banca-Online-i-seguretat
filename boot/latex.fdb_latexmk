@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1702581151 "c:/Users/sudan/OneDrive/桌面/Banca-Online-i-seguretat/latex.tex" "boot/latex.pdf" "latex" 1702581155 0
+["pdflatex"] 1702585105 "c:/Users/sudan/OneDrive/桌面/Banca-Online-i-seguretat/latex.tex" "boot/latex.pdf" "latex" 1702585109 0
   "Apps.tex" 1702580614 2537 c25d14e003c3ffa76fddd43f830574ae ""
   "Bibliografia.tex" 1702576104 803 fd15ab9c6118a409a85ceaa811b01f2c ""
   "C:/Users/sudan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1702034296 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
@@ -95,11 +95,11 @@
   "Conclusio.tex" 1702554554 1208 180a8b2f1a206c0ee71fe4ed09d52c5c ""
   "Introducció.tex" 1702576448 5675 2dcb5017e51c53df6d2ec90d1330586c ""
   "Pagaments.tex" 1702579171 3081 9aa1dc622ce896122ddd127b62cb24e7 ""
-  "SeguretatBancari.tex" 1702579535 2483 0f6364574ea19c36d4c984b841bb0310 ""
+  "SeguretatBancari.tex" 1702585101 2488 516279ee021395afd3af2e40d0981c55 ""
   "Tarjeta.tex" 1702581150 2162 d4143e691514343a873e49f5c3d9c534 ""
-  "boot/latex.aux" 1702581154 3532 f0cbe45145f57ddf73b4da49a5009ddb "pdflatex"
-  "boot/latex.out" 1702581154 2805 89911fca5e7c0196d6a8e9c6d56ab16c "pdflatex"
-  "boot/latex.toc" 1702581154 1317 284c211318133bbb79ab7d2d34b63e54 "pdflatex"
+  "boot/latex.aux" 1702585108 3537 a8610f9fd5c7c560ef25e450f7c7a856 "pdflatex"
+  "boot/latex.out" 1702585108 2833 fd4f46fb06c0cfb0d583954fecb09d81 "pdflatex"
+  "boot/latex.toc" 1702585108 1322 d1e52aa3982c75b020820bc5fc893560 "pdflatex"
   "c:/Users/sudan/OneDrive/桌面/Banca-Online-i-seguretat/latex.tex" 1702580665 1541 eb0df351b7b76e123efca0158652ff61 ""
   "images//didponiblitatapplepay.png" 1702544439 81187 8cb25a93ee2fa97b15e5cb321aa6e3b3 ""
   "images//disponiblitatgooglepay.png" 1702545089 39077 b69aa88f65cd97576cfa10aa40f08f89 ""
