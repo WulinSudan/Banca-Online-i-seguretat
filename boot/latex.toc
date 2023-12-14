@@ -5,16 +5,16 @@
 \contentsline {subsection}{Què pot fet una app bancari?}{2}{section*.4}%
 \contentsline {subsection}{Avantatges de la banca online}{3}{section*.5}%
 \contentsline {subsection}{Desavantatges de la banca online}{3}{section*.6}%
-\contentsline {section}{\numberline {2}Pagaments via digital}{3}{section.2}%
-\contentsline {subsection}{Bizum}{3}{section*.7}%
-\contentsline {subsection}{Tarjeta Bancari}{4}{section*.8}%
-\contentsline {subsection}{Cartera digital}{4}{section*.9}%
-\contentsline {section}{\numberline {3}Seguretat Bancari}{5}{section.3}%
-\contentsline {subsection}{Seguretat de dades del bancari}{5}{section*.10}%
-\contentsline {subsection}{Seguretat de dades del client}{6}{section*.11}%
-\contentsline {section}{\numberline {4}App}{7}{section.4}%
-\contentsline {subsection}{BBVA}{7}{section*.12}%
-\contentsline {subsection}{CaixaBank Now}{7}{section*.13}%
-\contentsline {subsection}{OpenBank}{7}{section*.14}%
-\contentsline {section}{\numberline {5}Conclusió}{8}{section.5}%
-\contentsline {section}{\numberline {6}Bibliografia}{9}{section.6}%
+\contentsline {section}{\numberline {2}Tarjeta Bancari}{4}{section.2}%
+\contentsline {section}{\numberline {3}Pagaments via digital}{5}{section.3}%
+\contentsline {subsection}{Bizum}{5}{section*.7}%
+\contentsline {subsection}{Cartera digital}{5}{section*.8}%
+\contentsline {section}{\numberline {4}Seguretat Bancari}{7}{section.4}%
+\contentsline {subsection}{Seguretat de dades del bancari}{7}{section*.9}%
+\contentsline {subsection}{Seguretat de dades del part client}{7}{section*.10}%
+\contentsline {section}{\numberline {5}Apps}{8}{section.5}%
+\contentsline {subsection}{BBVA}{8}{section*.11}%
+\contentsline {subsection}{CaixaBank Now}{8}{section*.12}%
+\contentsline {subsection}{OpenBank}{8}{section*.13}%
+\contentsline {section}{\numberline {6}Conclusió}{9}{section.6}%
+\contentsline {section}{\numberline {7}Bibliografia}{10}{section.7}%

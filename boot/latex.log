@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.19)  14 DEC 2023 12:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.19)  14 DEC 2023 20:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -471,7 +471,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [2
 
-]) (Pagaments.tex
+])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -479,18 +479,68 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[3]
+[3] (Tarjeta.tex
 <images//primeratarjeta.png, id=128, 781.41937pt x 480.29437pt>
 File: images//primeratarjeta.png Graphic file (type png)
 <use images//primeratarjeta.png>
-Package pdftex.def Info: images//primeratarjeta.png  used on input line 25.
+Package pdftex.def Info: images//primeratarjeta.png  used on input line 6.
 (pdftex.def)             Requested size: 142.26378pt x 87.43861pt.
-<images//usuarispaypal.png, id=129, 907.13907pt x 427.5975pt>
+<images//primeravisaespanya.png, id=129, 454.69875pt x 286.06876pt>
+File: images//primeravisaespanya.png Graphic file (type png)
+<use images//primeravisaespanya.png>
+Package pdftex.def Info: images//primeravisaespanya.png  used on input line 17.
+(pdftex.def)             Requested size: 142.26378pt x 89.50539pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--25
+
+ []
+
+) (Pagaments.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[4
+
+ <./images//primeratarjeta.png> <./images//primeravisaespanya.png>]
+<images//usuarispaypal.png, id=138, 907.13907pt x 427.5975pt>
 File: images//usuarispaypal.png Graphic file (type png)
 <use images//usuarispaypal.png>
-Package pdftex.def Info: images//usuarispaypal.png  used on input line 53.
+Package pdftex.def Info: images//usuarispaypal.png  used on input line 44.
 (pdftex.def)             Requested size: 227.62204pt x 107.29059pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 41--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--53
+
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -498,22 +548,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[4 <./images//primeratarjeta.png>]
-<images//disponiblitatgooglepay.png, id=136, 330.48468pt x 185.19188pt>
+[5 <./images//usuarispaypal.png>]
+<images//disponiblitatgooglepay.png, id=146, 330.48468pt x 185.19188pt>
 File: images//disponiblitatgooglepay.png Graphic file (type png)
 <use images//disponiblitatgooglepay.png>
-Package pdftex.def Info: images//disponiblitatgooglepay.png  used on input line 59.
+Package pdftex.def Info: images//disponiblitatgooglepay.png  used on input line 56.
 (pdftex.def)             Requested size: 227.62204pt x 127.55646pt.
-<images//didponiblitatapplepay.png, id=137, 387.69844pt x 245.41687pt>
+<images//didponiblitatapplepay.png, id=147, 387.69844pt x 245.41687pt>
 File: images//didponiblitatapplepay.png Graphic file (type png)
 <use images//didponiblitatapplepay.png>
-Package pdftex.def Info: images//didponiblitatapplepay.png  used on input line 65.
+Package pdftex.def Info: images//didponiblitatapplepay.png  used on input line 62.
 (pdftex.def)             Requested size: 227.62204pt x 144.08693pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) (SeguretatBancari.tex
+)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -521,21 +567,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[5 <./images//usuarispaypal.png> <./images//disponiblitatgooglepay.png>]) (Apps.tex
-<images//appbbva.png, id=146, 173.89969pt x 85.06781pt>
-File: images//appbbva.png Graphic file (type png)
-<use images//appbbva.png>
-Package pdftex.def Info: images//appbbva.png  used on input line 10.
-(pdftex.def)             Requested size: 227.62204pt x 111.35266pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
-
- []
-
+[6 <./images//disponiblitatgooglepay.png> <./images//didponiblitatapplepay.png>] (SeguretatBancari.tex)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -543,42 +575,44 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[6 <./images//didponiblitatapplepay.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 24--25
+[7
+
+] (Apps.tex
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--39
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
 
  []
 
-<images//historiaopenbank.png, id=154, 859.71187pt x 194.22563pt>
-File: images//historiaopenbank.png Graphic file (type png)
-<use images//historiaopenbank.png>
-Package pdftex.def Info: images//historiaopenbank.png  used on input line 44.
-(pdftex.def)             Requested size: 455.24408pt x 102.85017pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
 
-) (Conclusio.tex
+ []
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[8
+
+] (Conclusio.tex
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[7 <./images//appbbva.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
@@ -591,29 +625,26 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[8 <./images//historiaopenbank.png>] (Bibliografia.tex)
-Overfull \hbox (210.48122pt too wide) in paragraph at lines 3--69
+[9
+
+] (Bibliografia.tex)
+Overfull \hbox (210.48122pt too wide) in paragraph at lines 3--72
 []$\OT1/cmtt/m/n/12 https : / / es . statista . com / estadisticas / 501217 / tasa-[]de-[]penetracion-[]de-[]los-[]servicios-[]de-[]banca-[]online-[]en-[]espana/$[] 
  []
 
 
-Overfull \hbox (33.58113pt too wide) in paragraph at lines 3--69
+Overfull \hbox (33.58113pt too wide) in paragraph at lines 3--72
 []$\OT1/cmtt/m/n/12 https : / / blog . billpocket . com / post / tarjetas-[]de-[]chip# : [] : text = Mientras % 20que % 20las %
  []
 
 
-Overfull \hbox (116.35617pt too wide) in paragraph at lines 3--69
+Overfull \hbox (116.35617pt too wide) in paragraph at lines 3--72
 []$\OT1/cmtt/m/n/12 https : / / www . bbvaapimarket . com / es / mundo-[]api / ventajas-[]incorporar-[]alipay-[]forma-[]de-[]pago-[]negocio/$[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--69
-
- []
-
-
-Overfull \hbox (2.87057pt too wide) in paragraph at lines 3--69
-\OT1/cmr/m/n/12 urlhttps://es.statista.com/estadisticas/1332380/penetracion-de-paypal-en-pagos-online-a-
+Overfull \hbox (216.65622pt too wide) in paragraph at lines 3--72
+[]$\OT1/cmtt/m/n/12 https : / / es . statista . com / estadisticas / 1332380 / penetracion-[]de-[]paypal-[]en-[]pagos-[]online-[]a-[]nivel-[]mundial-[]por-[]pais/$[] 
  []
 
 
@@ -623,24 +654,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[9
+[10
 
 ] (c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.aux)
 Package rerunfilecheck Info: File `latex.out' has not changed.
-(rerunfilecheck)             Checksum: 329B7A35F8D28E4EF6E9DE0DE115110B;2783.
+(rerunfilecheck)             Checksum: 89911FCA5E7C0196D6A8E9C6D56AB16C;2805.
  ) 
 Here is how much of TeX's memory you used:
- 13480 strings out of 475385
- 215630 string characters out of 2776907
- 605267 words of memory out of 3000000
- 34618 multiletter control sequences out of 15000+600000
+ 13479 strings out of 475385
+ 215605 string characters out of 2776907
+ 604267 words of memory out of 3000000
+ 34614 multiletter control sequences out of 15000+600000
  475299 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,12n,77p,1130b,596s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\sudan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/sudan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/sudan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/sudan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.pdf (10 pages, 1769527 bytes).
+Output written on c:\Users\sudan\OneDrive\桌面\Banca-Online-i-seguretat\boot\latex.pdf (11 pages, 2090983 bytes).
 PDF statistics:
- 213 PDF objects out of 1000 (max. 8388607)
- 43 named destinations out of 1000 (max. 500000)
- 188 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 216 PDF objects out of 1000 (max. 8388607)
+ 44 named destinations out of 1000 (max. 500000)
+ 183 words of extra memory for PDF output out of 10000 (max. 10000000)
 
